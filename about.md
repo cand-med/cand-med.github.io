@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: Über cand. med.
 permalink: /about/
 ---
+<div id="photo-round-crop"></div>
+Hi, ich bin Marius und studiere Medizin. Das ist mein Blog.
 
-Some information about you!
+Ich möchte helfen das Arzt-Patienten-Verhältnis zu verbessern, indem ich einfache medizinische Themen verständlich erkläre. Ich möchte mir Gedanken dazu machen, wie Patienten Medizin und Krankheit anders wahrnehmen, als Ärzte. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
